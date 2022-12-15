@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\росен\Documents\GitHub\15\laba25\laba25\Source.c(14,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\росен\Documents\GitHub\15\laba25\laba25\Source.c(92,2): warning C4013: Gist: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\росен\Documents\GitHub\15\laba25\laba25\Source.c(116): warning C4172: возвращение адреса локальной или временной переменной : A
+  laba25.vcxproj -> C:\Users\росен\Documents\GitHub\15\laba25\x64\Debug\laba25.exe
